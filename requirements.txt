@@ -1,4 +1,4 @@
-autobahn==0.14.1
+autobahn==20.12.3
 beautifulsoup4==4.4.1
 Flask==0.10.1
 Flask-OAuth==0.12
