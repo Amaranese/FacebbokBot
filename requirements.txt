@@ -19,7 +19,7 @@ service-identity==16.0.0
 six==1.10.0
 Twisted==16.3.0
 txaio==2.5.1
-ujson==1.33
+ujson==5.4.0
 watson-developer-cloud==0.16.0
 websocket-client==0.37.0
 Werkzeug==0.11.2
